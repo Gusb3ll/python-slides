@@ -106,4 +106,6 @@ print(type(i))
 
 ---
 
-# How to get data from outside the garden
+### พิมได้แค่นี้แหละ หนีนอนละบาย5555
+
+---
